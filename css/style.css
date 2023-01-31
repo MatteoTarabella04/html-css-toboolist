@@ -70,3 +70,77 @@ html {
     border-radius: 8px;
 
 }
+
+.todo{
+    background-color: #ffffff;
+    margin-top: 0.2rem;
+}
+
+.title {
+    margin-left: 2rem;
+    padding: 1rem;
+    text-align: left;
+}
+
+.check {
+    margin-left: 2rem;
+    margin-right: 0.5rem;
+    margin-top: 0.3rem;
+    margin-bottom: 1rem;
+    
+}
+
+.badge-b {
+    background-color: #44aae9;
+    color: #ffffff;
+    margin-left: 0.5rem;
+    padding: 0.3rem 0.5rem;
+    text-align: center;
+    border-radius: 1rem;
+    font-size: smaller;
+  }
+.badge-v {
+    background-color: #9c72e4;
+    color: #ffffff;
+    margin-left: 0.5rem;
+    padding: 0.3rem 0.5rem;
+    text-align: center;
+    border-radius: 1rem;
+    font-size: smaller;
+  }
+.badge-a {
+    background-color: #64c0a9;
+    color: #ffffff;
+    margin-left: 0.5rem;
+    padding: 0.3rem 0.5rem;
+    text-align: center;
+    border-radius: 1rem;
+    font-size: smaller;
+  }
+.badge-o {
+    background-color: #f29e33;
+    color: #ffffff;
+    margin-left: 0.5rem;
+    padding: 0.3rem 0.5rem;
+    text-align: center;
+    border-radius: 1rem;
+    font-size: smaller;
+  }
+.badge-p {
+    background-color: #d863a1;
+    color: #ffffff;
+    margin-left: 0.5rem;
+    padding: 0.3rem 0.5rem;
+    text-align: center;
+    border-radius: 1rem;
+    font-size: smaller;
+  }
+.badge-g {
+    background-color: #b0c926;
+    color: #ffffff;
+    margin-left: 0.5rem;
+    padding: 0.3rem 0.5rem;
+    text-align: center;
+    border-radius: 1rem;
+    font-size: smaller;
+  }
