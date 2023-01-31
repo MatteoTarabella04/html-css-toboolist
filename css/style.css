@@ -83,6 +83,7 @@ html {
 }
 
 .check {
+    transform: scale(1.5);
     margin-left: 2rem;
     margin-right: 0.5rem;
     margin-top: 0.3rem;
