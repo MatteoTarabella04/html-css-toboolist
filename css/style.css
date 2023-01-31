@@ -32,7 +32,41 @@ html {
 
 .logo-text {
     font-size: 3rem;
-    font-weight: bold;
+    font-weight: 700;
     vertical-align: text-top;
+
+}
+
+.container {
+    width: 60%;
+    margin: auto;
+}
+
+.buttons {
+    background-color: #ffffff;
+    margin-top: 2rem;
+    height: 3rem;
+
+}
+
+.col{
+    margin-left: 3rem;
+    margin-top: 0.5rem;
+    color:#ffffff;
+    background-color: #44aae9;
+    padding: 8px;
+    border: none;
+    border-radius: 8px;
+
+}
+
+.uncol {
+    margin-top: 0.5rem;
+    color:#ffffff;
+    background-color: white;
+    color:#c0c0c0;
+    border: 1px solid;
+    padding: 8px;
+    border-radius: 8px;
 
 }
