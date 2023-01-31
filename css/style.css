@@ -11,3 +11,28 @@
     .grey: #f6f8f9
 
 */
+
+* {
+    margin: 0;
+}
+
+html {
+    background-color: #f6f8f9 ;
+    font-family: 'Lato', sans-serif;
+}
+
+.banner {
+    background-color: #ffffff;
+}
+
+.logo {
+    margin: 0.5rem;
+    vertical-align: text-top;
+}
+
+.logo-text {
+    font-size: 3rem;
+    font-weight: bold;
+    vertical-align: text-top;
+
+}
